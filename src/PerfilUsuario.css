@@ -1,0 +1,109 @@
+.Perfilusuario {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  
+}
+
+.profile {
+  margin: 200px 0;
+}
+.EditorP{
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.profileImage {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  background-color: #2b56d6;
+}
+
+.placeholder {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #2b56d6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.buttonCF{
+  color: white;
+  background-color: #072fa8;
+  margin-left: 10px;
+  padding: 10px 20px;
+}
+.buttonDel{
+  color: white;
+  background-color: #072fa8;
+  margin-left: 10px;
+  padding: 10px 20px;
+}
+
+button {
+  
+  margin: 10px;
+  padding: 10px 350px;
+  border: none;
+  border-radius: 5px;
+  background-color: #1e00ff;
+  color: white;
+  cursor: pointer;
+}
+.buttonProducts{
+  color: white;
+  background-color: #072fa8;
+  position: relative;
+  top :-150px;
+  margin: 0 10px;
+  padding: 10px 400px;
+}
+.buttonFacturas{
+  background-color: #072fa8;
+  color: white;
+  position: relative;
+  top :-140px;
+  margin: 0 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px 408px;
+}
+.buttonCompras{
+  background-color: #072fa8;
+  color: white;
+  position: relative;
+  top :-130px;
+  margin: 0 10px;
+  padding: 10px 380px;
+}
+.buttonEliminar{
+  color: white;
+  background-color: red;
+  padding : 10px 100px;
+  top: -100px;
+  position: relative;
+}
+button:hover {
+  background-color: #0056b3;
+}
+
+
+.app {
+  background-color: #ffffff;
+  border-radius: 25px; /* Bordes redondeados para el fondo */
+  padding: 50px; /* Espaciado interior */
+  max-width: 60%; /* Anchura máxima de la página */
+  margin: 50px auto 0 auto; /* Centra el contenido */
+}
+body {
+  background-color: #b4b0b0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
