@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/api/productos/:id",
+        "destination": "http://172.235.40.140/api/productos/:id"
+      }
+    ]
+  }
+  
