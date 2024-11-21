@@ -7,7 +7,6 @@ const LoginNew = () => {
             <h1>Login</h1>
             <p className="user">Usuario</p>
             <div className="input-box-user">
-                
                 <input type="text" placeholder="Usuario"/>
             </div>
             <p className="password">Contraseña</p>
