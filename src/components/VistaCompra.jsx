@@ -81,5 +81,4 @@ function VistaCompra() {
         </>
     );
 }
-
 export default VistaCompra;
